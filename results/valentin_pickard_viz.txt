@@ -1,0 +1,50 @@
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+NOT IMPLEMENTED
+
+eats Kevin
+Parses: 0
+
+the student eats a cookie the teacher
+Parses: 0
+
+the telescope sees the teacher that eats
+Parses: 0
+
+the wizard gives Harry the telescope
+Parses: 0
+
+that a teacher says that a student eats
+Parses: 0
+
+a student says that that the teacher says that Kevin sees a cookie
+Parses: 0
+
+Kevin sees the teacher with a Kevin
+Parses: 0
+
+Kevin says the teacher with a telescope with a student
+Parses: 0
+
+a student with the telescope
+Parses: 0
+
+a cookie gives that telescope with a student the teacher
+Parses: 0
+

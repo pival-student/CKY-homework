@@ -1,0 +1,26 @@
+S
+S -> NP VP
+VP -> VP PP
+VP -> V1 NP
+VP -> V2 X1
+X1 -> NP NP
+VP -> VC X2
+X2 -> T S
+NP -> Det N
+NP -> NP PP
+PP -> Prep NP
+Prep -> with
+T -> that
+Det -> a
+Det -> the
+N -> student
+N -> teacher
+N -> telescope
+N -> cookie
+NP -> Kevin
+VP -> eats
+V1 -> eats
+V1 -> sees
+VC -> sees
+V2 -> gives
+VC -> says
