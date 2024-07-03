@@ -1,0 +1,48 @@
+G
+G -> NP VP
+G -> X3 G
+G -> I X4
+X4 -> G X5
+X5 -> E G
+X3 -> G A
+VP -> V2 PP2
+VP -> V1 NP
+VP -> VC X2
+X2 -> T G
+VP -> V3 X1
+X1 -> NP PP1
+NP -> Det1 N
+NP -> Det2 N
+NP -> Det2 N2
+NP -> NP PP1
+PP1 -> Prep1 NP
+PP2 -> Prep2 NP
+Prep1 -> from
+Prep2 -> about
+I -> if
+E -> then
+A -> and
+A -> or
+T -> that
+Det1 -> a
+Det2 -> the
+N -> neighbour
+N -> child
+N -> bottle
+N2 -> water
+N2 -> wine
+NP -> water
+NP -> wine
+NP -> Karen
+NP -> Kyle
+VP -> sleeps
+VP -> drinks
+V1 -> drinks
+V1 -> dislikes
+VC -> dislikes
+VP -> complains
+V2 -> complains
+VC -> complains
+VC -> thinks
+V1 -> takes
+V3 -> takes
